@@ -1,12 +1,13 @@
-# HTML Basics
+# HTML-CSS Basics
 
-This repository contains my HTML practice files.
+This repository contains my HTML-CSS practice files.
 
 ## Topics covered
-- Semantic HTML
-- Accessibility basics
-- Images, audio, and video tags
-- SEO-friendly structure
+Semantic HTML
+Accessibility basics
+SEO-friendly structure
+External CSS integration
+CSS selectors (element, class, ID)
 
 ## Purpose
 Learning and building a strong foundation in web development.
