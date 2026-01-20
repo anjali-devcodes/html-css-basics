@@ -1,0 +1,33 @@
+/* global styles */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(1, 12, 21);
+}
+/* header and nav */
+header {
+  background-color: black;
+  color: rgb(235, 228, 228);
+}
+/* sections */
+.album {
+    padding: 20px;
+}
+
+.debut {
+    background-color: #1f1f1f;
+    color: #f5f5f5;
+}
+
+.dark {
+    background-color: #f5f5dc;
+    color: #111;
+}
+
+/* texts */
+p {
+  color: #f0eeee;
+}
+/* footer */
+footer {
+  background-color: #222;
+}
